@@ -1,0 +1,31 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.VC.db
+*.VC.opendb
+ipch/
+.vs/
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
