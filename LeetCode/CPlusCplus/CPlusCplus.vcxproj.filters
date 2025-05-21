@@ -57,5 +57,29 @@
     <ClCompile Include="347_TopKFrequentElements.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="20_ValidParentheses.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="155_MinStack.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="150_EvaluateReversePolishNotation.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="22_GenerateParentheses.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="739_DailyTemperatures.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="853_CarFleet.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="84_LargestRectangleInHistogram.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="704_BinarySearch.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

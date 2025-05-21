@@ -7,6 +7,6 @@ git remote add origin https://github.com/weipin1995/LeetCode.git
 git push -u origin main
 
 1. git add .
-2. git commit -m "XXX"
+2. git commit -m "Add LeetCode Problems"
    XXX = commit message
 3. git push
